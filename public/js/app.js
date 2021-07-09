@@ -2037,15 +2037,6 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
 
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
@@ -62837,22 +62828,6 @@ var render = function() {
                 attrs: { to: { name: "register" } }
               },
               [_vm._v("Register")]
-            )
-          ],
-          1
-        ),
-        _vm._v(" "),
-        _c(
-          "div",
-          [
-            _vm._v("\n                Forgetten Password?\n                "),
-            _c(
-              "router-link",
-              {
-                staticClass: "font-weight-bold",
-                attrs: { to: { name: "register" } }
-              },
-              [_vm._v("Reset Password")]
             )
           ],
           1
